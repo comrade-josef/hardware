@@ -1,0 +1,5 @@
+DEVSENAI2023
+@dev2023
+
+sesisenai/cpfaluno
+senha=email/sesi
